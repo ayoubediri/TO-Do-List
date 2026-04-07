@@ -6,7 +6,9 @@ A modern, fully-featured React to-do list application built with Material-UI, fe
 
 ## Application Overview
 
-![To-Do List Application Dashboard](./screenshot.png)
+![To-Do List Application Dashboard](public/to_do_list_screenshot0.png)
+![to-Do List Application Details](public/to_do_list_screenshot1.png)
+![To-Do List Application Details Edit Mode](public/to_do_list_screenshot2.png)
 
 ---
 
